@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![LoKrish's github stats](https://github-readme-stats.vercel.app/api?username=LoKrish)](https://github-readme-stats.vercel.app/api?username=LoKrish&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark)
+[![LoKrish's github stats](https://github-readme-stats.vercel.app/api?username=LoKrish)](https://github-readme-stats.vercel.app/api?username=LoKrish&show_icons=true&hide=contribs,prs&theme=vue-dark)
